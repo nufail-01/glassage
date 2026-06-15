@@ -1,0 +1,49 @@
+/* src/index.css */
+
+@import "tailwindcss";
+
+/* ── Font faces ── */
+@font-face {
+    font-family: 'OverusedGrotesk';
+    src: url('./assets/fonts/OverusedGrotesk-Book.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'OverusedGrotesk';
+    src: url('./assets/fonts/OverusedGrotesk-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'OverusedGrotesk';
+    src: url('./assets/fonts/OverusedGrotesk-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'OverusedGrotesk';
+    src: url('./assets/fonts/OverusedGrotesk-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'OverusedGrotesk';
+    src: url('./assets/fonts/OverusedGrotesk-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ── Register font as Tailwind theme token ── */
+@theme {
+    --font-sans: 'OverusedGrotesk', sans-serif;
+}

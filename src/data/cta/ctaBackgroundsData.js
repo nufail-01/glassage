@@ -1,8 +1,8 @@
-import rainBg from "../../assets/images/rain-bg.WEBP";
-import sunBg from "../../assets/images/sun-bg.WEBP";
-import bugBg from "../../assets/images/bug-bg.WEBP";
-import securityBg from "../../assets/images/security-bg.WEBP";
-import fireBg from "../../assets/images/fire-bg.WEBP";
+import rainBg from "../../assets/images/rain-bg.webp";
+import sunBg from "../../assets/images/sun-bg.webp";
+import bugBg from "../../assets/images/bug-bg.webp";
+import securityBg from "../../assets/images/security-bg.webp";
+import fireBg from "../../assets/images/fire-bg.webp";
 
 export const ctaBackgrounds = [
     { key: "rain", bg: rainBg, title: "Built to withstand harsh\nweather conditions" },

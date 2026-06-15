@@ -1,6 +1,6 @@
-import img7_2 from "../../assets/images/imgi_7_2.WEBP";
-import img8_1 from "../../assets/images/imgi_8_1.WEBP";
-import img9_3 from "../../assets/images/imgi_9_3.WEBP";
+import img7_2 from "../../assets/images/imgi_7_2.webp";
+import img8_1 from "../../assets/images/imgi_8_1.webp";
+import img9_3 from "../../assets/images/imgi_9_3.webp";
 
 export const slides = [
     {

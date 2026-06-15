@@ -1,8 +1,8 @@
-import img9_3 from "../../assets/images/imgi_9_3.WEBP";
-import img13_sr5 from "../../assets/images/imgi_13_sr5.WEBP";
-import img14_sr6 from "../../assets/images/imgi_14_sr6.WEBP";
-import img15_sr7 from "../../assets/images/imgi_15_sr7.WEBP";
-import img16_sr1 from "../../assets/images/imgi_16_sr1.WEBP";
+import img9_3 from "../../assets/images/imgi_9_3.webp";
+import img13_sr5 from "../../assets/images/imgi_13_sr5.webp";
+import img14_sr6 from "../../assets/images/imgi_14_sr6.webp";
+import img15_sr7 from "../../assets/images/imgi_15_sr7.webp";
+import img16_sr1 from "../../assets/images/imgi_16_sr1.webp";
 
 export const services = [
     {

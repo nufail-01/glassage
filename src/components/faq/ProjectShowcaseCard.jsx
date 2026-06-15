@@ -1,5 +1,5 @@
 // components/faq/ProjectShowcaseCard.jsx
-import image from "../../assets/images/imgi_77_video-tags.WEBP";
+import image from "../../assets/images/imgi_77_video-tags.webp";
 
 function ProjectShowcaseCard() {
     return (

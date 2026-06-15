@@ -1,5 +1,5 @@
 // components/ctabottom/CTABottomBanner.jsx
-import backgroundImage from "../../assets/images/imgi_80_cta.WEBP";
+import backgroundImage from "../../assets/images/imgi_80_cta.webp";
 
 function CTABottomBanner() {
     return (

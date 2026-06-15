@@ -1,4 +1,4 @@
-import a from "../../assets/images/imgi_10_4.WEBP";
+import a from "../../assets/images/imgi_10_4.webp";
 
 function AboutImage() {
   return (

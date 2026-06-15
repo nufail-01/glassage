@@ -1,6 +1,6 @@
 import StrengthsHeader from "./StrengthsHeader";
 import StrengthsGrid from "./StrengthsGrid";
-import bgImage from "../../assets/images/imgi_71_image-bg.WEBP";
+import bgImage from "../../assets/images/imgi_71_image-bg.webp";
 
 function StrengthsSection() {
   return (

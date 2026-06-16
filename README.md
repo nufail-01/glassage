@@ -31,7 +31,7 @@ Glassage delivers a premium business website experience for a facade solutions c
 ---
 
 ## 🌐 Live Demo
-[![Website Preview](src/assetes/images/glassage.png
+[![Website Preview](src/assets/images/glassage.png
 )](https://glassage.netlify.app/)
 
 ---

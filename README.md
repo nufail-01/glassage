@@ -1,3 +1,89 @@
+# 🏗️ Glassage
+
+A modern and responsive facade solutions website built using React.js and Tailwind CSS. Glassage provides users with an engaging experience to explore premium facade services, projects, certifications, and client testimonials through a clean and intuitive interface.
+
+---
+
+## 📌 Project Overview
+
+This project was developed to showcase frontend development skills using modern React practices and responsive design principles.
+
+The application demonstrates:
+
+* Scalable React application architecture
+* Reusable and maintainable components
+* Responsive layouts across all devices
+* Modern UI development with Tailwind CSS
+* Smooth scroll navigation
+* Clean folder structure and code organization
+
+Glassage delivers a premium business website experience for a facade solutions company, featuring interactive CTAs, animated sections, and a polished design system.
+
+---
+
+## 🛠 Tech Stack
+
+⚛️ React.js
+🎨 Tailwind CSS v4
+⚡ Vite
+🎯 Lucide React Icons
+
+---
+
+## ✨ Key Features
+
+* Fully Responsive Design (Mobile, Tablet & Desktop)
+* Interactive CTA Banner with Dynamic Background Switching
+* Smooth Scroll Navigation (Navbar & Footer Links)
+* Animated Hero Section
+* Services / Expertise Section
+* Strengths & Why Choose Us Sections
+* Clients & Testimonials Section
+* FAQ Section
+* Certifications Section
+* Mobile Hamburger Menu with Smooth Transitions
+* Reusable Component Architecture
+* Optimized Performance with Vite
+
+---
+
+## 🛠 What I Learned
+
+During the development of Glassage, I gained hands-on experience with:
+
+* Advanced React component structuring
+* Managing scalable folder architecture
+* Building reusable UI components
+* Implementing smooth scroll navigation with section IDs
+* Creating interactive UI with dynamic state management
+* Building responsive layouts using Tailwind CSS
+* Glassmorphism UI design techniques
+
+---
+
+## 📂 Source Code
+
+🔗 GitHub Repository
+https://github.com/nufail-01/glassage
+
+---
+
+## 🤝 Connect With Me
+
+🔗 LinkedIn
+https://www.linkedin.com/in/nufailshaikh/
+
+🔗 GitHub
+https://github.com/nufail-01
+
+---
+
+## 📄 License
+
+This project is created for educational and portfolio purposes.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
